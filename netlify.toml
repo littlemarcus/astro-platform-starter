@@ -1,7 +1,0 @@
-[build]
-command= "astro build"
-    [[redirects]]
-        from = "/old-url"
-        to = "/revalidation"
-        status = 200
-        force = true
